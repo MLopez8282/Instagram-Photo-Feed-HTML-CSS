@@ -1,0 +1,66 @@
+.feed-header{
+    display:flex;
+    justify-content:center;
+    font-size:15px;
+    height:40px;
+}
+h1{
+    position:absolute;
+    top:-13px;
+    padding-right:250px;
+}
+.page{
+    background:rgb(224, 224, 224);
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items:center;
+    padding-left:20px;
+}
+.post{
+    background:white;
+    height: 520px;
+    width:600px;
+    margin-top:30px;
+    margin-bottom:20px;
+    position:relative;
+}
+.post-header{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    padding-left: 10px;
+    padding-right:10px;
+}
+.postnumber{
+    color:rgb(199, 196, 196);
+}
+.photo{
+    position:relative;
+    text-align:center;
+}
+.photo p{
+    position:absolute;
+    bottom:-15px;
+    right:2px;
+    font-family: 'Libre Baskerville', serif;
+    font-size:20px;
+}
+.cute{
+    color:aqua;
+}
+.images{
+    color:orange;
+}
+.dot{
+    color:aqua;
+}
+.net{
+    color:rgb(127, 182, 17);
+}
+.footer  p{
+    padding-left:10px;
+}
+
+
+
